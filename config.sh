@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch /tmp/powerplant-config/newfile
+crontab < /tmp/powerplant-config/newcron
